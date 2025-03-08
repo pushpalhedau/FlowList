@@ -15,7 +15,9 @@ cd House-Price-Prediction
 ```sh
 pip install -r requirements.txt
 ```
-3️⃣ Now run flask application
+3️⃣ Now run flask application (Make sure the sqlite setup is done properly)
 ```sh
 python main.py
 ```
+5️⃣Open the Web Application
+Go to http://127.0.0.1:5000/ in your browser
